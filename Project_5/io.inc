@@ -1,0 +1,4 @@
+getData PROTO
+printArray PROTO
+displayMedian PROTO
+displayAverage PROTO
